@@ -1,6 +1,6 @@
 # Hugo Start
 
-A simple hugo boilerplate showing some of Hugo's functionality.
+Welcome to HugoWeb!!!
 
 
 ## Quick Start
